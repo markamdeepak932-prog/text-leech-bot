@@ -11,15 +11,15 @@
     "success_url": "https://t.me/AshutoshGoswami24",
     "stack": "heroku-22",
     "env": {
-        "API_ID": {
+        "API_ID": {30723612
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {9ca08fc02acd2f9fbbcc73787bcb1a46
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {8814034157:AAHF2nwZ5KvY0_qpCo20rij3PXf4z6nr-4A
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
             "required": true
         },
